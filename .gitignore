@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!lib/main.dart
+!lib/home.dart
+!lib/registered.dart
+
